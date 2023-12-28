@@ -1,0 +1,5 @@
+outs:
+- md5: a1deb183be82adf76e8d007f6936f82d
+  size: 1081389
+  hash: md5
+  path: index.faiss
